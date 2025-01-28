@@ -1,4 +1,4 @@
-# OSINT Find linkedin employees
+# OSINT Find Linkedin Employees
 
 Python script to search for empleyees on Linkedin for a company using a domain.
 
@@ -43,7 +43,7 @@ sudo apt install python3 python3-pip -y
 ```
 ---
 
-#### Libraries
+## Libraries
 
 Libraries: requests, re, signal, sys, pwn
 
