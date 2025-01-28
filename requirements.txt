@@ -1,0 +1,5 @@
+requests
+re
+sys
+signal
+pwntools
