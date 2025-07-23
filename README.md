@@ -11,6 +11,13 @@ python3 ./find-linkedin-employees.py
 python3 ./find-linkedin-employees.py telefonica.com
 ```
 ---
+## 📄 Results
+
+All results are obtained from public sources
+
+![results_find_linkedin](./images/results_find_linkedin_employees.png)
+
+---
 ## 🚀 Getting Started
 
 ### 1) Install libraries:
