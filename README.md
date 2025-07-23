@@ -8,7 +8,7 @@ python3 ./find-linkedin-employees.py
 ```
 #### **Example:** 
 ```bash
-python3 ./find-linkedin-employees.py telefonica.com
+python3 ./find-linkedin-employees.py example.com
 ```
 ---
 ## 📄 Results
